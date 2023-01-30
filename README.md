@@ -15,6 +15,7 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning from the CircleCI incident with a tabletop exercise](https://medium.com/@adan.alvarez/learning-from-the-circleci-incident-with-a-tabletop-exercise-fa265cd6d39e)
 - [Laboratorio en AWS para análisis de malware](https://www.donttouchmy.net/aws/laboratorio-en-aws-para-analisis-de-malware/)
 - [Cybersecurity — It’s all about risks](https://medium.com/@adan.alvarez/cybersecurity-its-all-about-risks-fc45b5279c57)
 - [Tráfico HTTPS de app Flutter con Burp usando Genymotion PaaS](https://www.donttouchmy.net/pentest/trafico-https-de-app-flutter-con-burp-usando-genymotion-paas/)
