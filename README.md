@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Cybersecurity Engineer :man_technologist::lock: </h3>
 </br>
 
-I'm a **passionate Cybersecurity Engineer** with over 12 years of experience in IT and more than 5 years of dedication to computer security. With an offensive security mindset, I have worked with clients from around the globe to improve their defenses and reduce cybersecurity risk at multiple companies.
+I'm a **passionate Cybersecurity Engineer** with over 13 years of experience in IT and more than 6 years of dedication to computer security. With an offensive security mindset, I have worked with clients from around the globe to improve their defenses and reduce cybersecurity risk at multiple companies.
 
 I'm always looking to upgrade [my certifications](https://www.credly.com/users/adan-alvarez.1d0afae2/badges), attend conferences, learn state-of-the-art technologies, and take training courses to stay on top of my field. I also run a [blog dedicated to Cybersecurity](https://www.donttouchmy.net/) and have reported vulnerabilities such as [CVE-2014-5025](https://nvd.nist.gov/vuln/detail/CVE-2014-5025), [CVE-2018-15635](https://nvd.nist.gov/vuln/detail/CVE-2018-15635), and [CVE-2020-25106](https://nvd.nist.gov/vuln/detail/CVE-2020-25106).
 
