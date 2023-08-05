@@ -15,6 +15,7 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When a Storm Hits the Cloud: Learning from the Microsoft Breach](https://medium.com/@adan.alvarez/when-a-storm-hits-the-cloud-learning-from-the-microsoft-breach-1d4de78ba686)
 - [Enhancing Security for AWS Static Websites: A PoC Implementation of Honeytokens](https://medium.com/@adan.alvarez/enhancing-security-for-aws-static-websites-a-poc-implementation-of-honeytokens-6148e8267984)
 - [Cybersecurity, Here to Help: Preventing Extra Cognitive Load for Developers](https://medium.com/@adan.alvarez/cybersecurity-here-to-help-preventing-extra-cognitive-load-for-developers-5e5e51a9e80c)
 - [Analyzing the SCARLETEEL Attack: Proposed Alerts for Early Detection and Response](https://medium.com/@adan.alvarez/analyzing-the-scarleteel-attack-proposed-alerts-for-early-detection-and-response-6e6758ddc904)
