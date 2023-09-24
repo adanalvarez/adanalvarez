@@ -15,6 +15,9 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Attackers Can Misuse AWS CloudFront Access to Make It ‘Rain’ Cookies](https://medium.com/@adan.alvarez/how-attackers-can-misuse-aws-cloudfront-access-to-make-it-rain-cookies-acf9ce87541c)
+- [Ensuring Alert Readiness: Lessons from Schrödinger’s Cat](https://medium.com/@adan.alvarez/ensuring-alert-readiness-lessons-from-schr%C3%B6dingers-cat-bc14f862340d)
+- [What’s Missing in Your Vulnerability Management Strategy? Exploring CVSS, EPSS, KEV, and Beyond](https://medium.com/@adan.alvarez/whats-missing-in-your-vulnerability-management-strategy-exploring-cvss-epss-kev-and-beyond-21c424207d9c)
 - [Are You Just Checking Boxes? Turning Compliance into Real Security](https://medium.com/@adan.alvarez/are-you-just-checking-boxes-turning-compliance-into-real-security-40aa686ade22)
 - [When a Storm Hits the Cloud: Learning from the Microsoft Breach](https://medium.com/@adan.alvarez/when-a-storm-hits-the-cloud-learning-from-the-microsoft-breach-1d4de78ba686)
 - [Enhancing Security for AWS Static Websites: A PoC Implementation of Honeytokens](https://medium.com/@adan.alvarez/enhancing-security-for-aws-static-websites-a-poc-implementation-of-honeytokens-6148e8267984)
