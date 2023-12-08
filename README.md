@@ -15,6 +15,7 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing AWS GuardDuty Alerts with GuardDutyInsightfulAlerts](https://awstip.com/enhancing-aws-guardduty-alerts-with-guarddutyinsightfulalerts-b7e806518a20?source=social.tw)
 - [Rigging the Rules: Manipulating AWS ALB to Mine Sensitive Data](https://medium.com/@adan.alvarez/rigging-the-rules-manipulating-aws-alb-to-mine-sensitive-data-20e33dbc4994)
 - [Distorting the Sync: How AWS AppSync Can Be Turned into an Attacker’s Backdoor](https://medium.com/@adan.alvarez/distorting-the-sync-how-aws-appsync-can-be-turned-into-an-attackers-backdoor-8c015b8e52b8)
 - [How Attackers Can Misuse AWS CloudFront Access to Make It ‘Rain’ Cookies](https://medium.com/@adan.alvarez/how-attackers-can-misuse-aws-cloudfront-access-to-make-it-rain-cookies-acf9ce87541c)
@@ -27,8 +28,6 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 - [Analyzing the SCARLETEEL Attack: Proposed Alerts for Early Detection and Response](https://medium.com/@adan.alvarez/analyzing-the-scarleteel-attack-proposed-alerts-for-early-detection-and-response-6e6758ddc904)
 - [Learning from the CircleCI incident with a tabletop exercise](https://medium.com/@adan.alvarez/learning-from-the-circleci-incident-with-a-tabletop-exercise-fa265cd6d39e)
 - [Laboratorio en AWS para análisis de malware](https://www.donttouchmy.net/aws/laboratorio-en-aws-para-analisis-de-malware/)
-- [Cybersecurity — It’s all about risks](https://medium.com/@adan.alvarez/cybersecurity-its-all-about-risks-fc45b5279c57)
-- [Tráfico HTTPS de app Flutter con Burp usando Genymotion PaaS](https://www.donttouchmy.net/pentest/trafico-https-de-app-flutter-con-burp-usando-genymotion-paas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 &nbsp;GitHub Stats
