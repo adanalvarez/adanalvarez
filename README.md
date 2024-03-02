@@ -15,6 +15,7 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity — It’s All About Trust](https://medium.com/@adan.alvarez/cybersecurity-its-all-about-trust-9abb9a80aa03)
 - [Enhancing AWS GuardDuty Alerts with GuardDutyInsightfulAlerts](https://awstip.com/enhancing-aws-guardduty-alerts-with-guarddutyinsightfulalerts-b7e806518a20?source=social.tw)
 - [Rigging the Rules: Manipulating AWS ALB to Mine Sensitive Data](https://medium.com/@adan.alvarez/rigging-the-rules-manipulating-aws-alb-to-mine-sensitive-data-20e33dbc4994)
 - [Distorting the Sync: How AWS AppSync Can Be Turned into an Attacker’s Backdoor](https://medium.com/@adan.alvarez/distorting-the-sync-how-aws-appsync-can-be-turned-into-an-attackers-backdoor-8c015b8e52b8)
