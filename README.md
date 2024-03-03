@@ -15,6 +15,7 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing TrailDiscover: Simplifying Access to Security Insights about CloudTrail Events](https://medium.com/@adan.alvarez/introducing-traildiscover-simplifying-access-to-security-insights-about-cloudtrail-events-cde14508f2e9)
 - [Cybersecurity — It’s All About Trust](https://medium.com/@adan.alvarez/cybersecurity-its-all-about-trust-9abb9a80aa03)
 - [Enhancing AWS GuardDuty Alerts with GuardDutyInsightfulAlerts](https://awstip.com/enhancing-aws-guardduty-alerts-with-guarddutyinsightfulalerts-b7e806518a20?source=social.tw)
 - [Rigging the Rules: Manipulating AWS ALB to Mine Sensitive Data](https://medium.com/@adan.alvarez/rigging-the-rules-manipulating-aws-alb-to-mine-sensitive-data-20e33dbc4994)
