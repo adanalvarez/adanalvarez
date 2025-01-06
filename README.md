@@ -15,6 +15,13 @@ I'm always looking to upgrade [my certifications](https://www.credly.com/users/a
 ## ✏️ &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GetFederationToken: A Simple AWS Persistence Technique Used in the Wild](https://medium.com/@adan.alvarez/how-attackers-persist-in-aws-using-getfederationtoken-a-simple-and-effective-technique-used-in-the-987ec1f0bdfe)
+- [How Attackers Can Abuse IAM Roles Anywhere for Persistent AWS Access](https://medium.com/@adan.alvarez/how-attackers-can-abuse-iam-roles-anywhere-for-persistent-aws-access-b3ced6935dca)
+- [Gaining AWS Persistence by Updating a SAML Identity Provider](https://medium.com/@adan.alvarez/gaining-aws-persistence-by-updating-a-saml-identity-provider-ef57ebdc8db5)
+- [Discover New CloudTrail Logs on TrailDiscover, Powered by Grimoire!](https://medium.com/@adan.alvarez/discover-new-cloudtrail-logs-on-traildiscover-powered-by-grimoire-4d9e57117188)
+- [Automating Incident Response in AWS: Blocking a Compromised Identity Center User](https://medium.com/@adan.alvarez/automating-incident-response-in-aws-blocking-a-compromised-identity-center-user-3273d7c02e1d)
+- [Deterring Attackers with HoneyTrail: Deploying Deception in AWS](https://medium.com/@adan.alvarez/deterring-attackers-with-honeytrail-deploying-deception-in-aws-6b5977afa784)
+- [What’s New in TrailDiscover: Integrating Permissions Information, Alerting, and Simulations](https://medium.com/@adan.alvarez/whats-new-in-traildiscover-integrating-permissions-information-alerting-and-simulations-dd0c63c67268)
 - [Introducing TrailDiscover: Simplifying Access to Security Insights about CloudTrail Events](https://medium.com/@adan.alvarez/introducing-traildiscover-simplifying-access-to-security-insights-about-cloudtrail-events-cde14508f2e9)
 - [Cybersecurity — It’s All About Trust](https://medium.com/@adan.alvarez/cybersecurity-its-all-about-trust-9abb9a80aa03)
 - [Enhancing AWS GuardDuty Alerts with GuardDutyInsightfulAlerts](https://awstip.com/enhancing-aws-guardduty-alerts-with-guarddutyinsightfulalerts-b7e806518a20?source=social.tw)
