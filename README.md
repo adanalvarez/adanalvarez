@@ -19,11 +19,11 @@ Here I share the tools and research behind my articles: how attackers operate in
 
 #### ✍️ Latest articles
 <!-- BLOG-POST-LIST:START -->
-- [I Gave 14 LLMs AWS Keys. Here’s What They Wanted to Do Next](https://medium.com/@adan.alvarez/i-gave-14-llms-aws-keys-heres-what-they-wanted-to-do-next-48585761a11b)
-- [From Leaked AWS Key to Data Exfiltration in 60 Seconds: Are We Ready?](https://medium.com/@adan.alvarez/from-leaked-aws-key-to-data-exfiltration-in-60-seconds-are-we-ready-28213bc73678)
-- [A Backdoor You Can Talk To: Persistence via Bedrock AgentCore](https://medium.com/@adan.alvarez/a-backdoor-you-can-talk-to-persistence-via-bedrock-agentcore-0db60320e737)
-- [A Practical Introduction to OpenTIDE: Open Threat-Informed Detection Engineering](https://medium.com/@adan.alvarez/a-practical-introduction-to-opentide-open-threat-informed-detection-engineering-e218e4970c95)
-- [Phishing for AWS Credentials via the New 'aws login' Flow](https://medium.com/@adan.alvarez/phishing-for-aws-credentials-via-the-new-aws-login-flow-39f6969b4eae)
+- [I Gave 14 LLMs AWS Keys. Here’s What They Wanted to Do Next](https://medium.com/@adan.alvarez/i-gave-14-llms-aws-keys-heres-what-they-wanted-to-do-next-48585761a11b?source=rss-755211d6d7d9------2)
+- [From Leaked AWS Key to Data Exfiltration in 60 Seconds: Are We Ready?](https://medium.com/@adan.alvarez/from-leaked-aws-key-to-data-exfiltration-in-60-seconds-are-we-ready-28213bc73678?source=rss-755211d6d7d9------2)
+- [A Backdoor You Can Talk To: Persistence via Bedrock AgentCore](https://medium.com/@adan.alvarez/a-backdoor-you-can-talk-to-persistence-via-bedrock-agentcore-0db60320e737?source=rss-755211d6d7d9------2)
+- [A Practical Introduction to OpenTIDE: Open Threat-Informed Detection Engineering](https://medium.com/@adan.alvarez/a-practical-introduction-to-opentide-open-threat-informed-detection-engineering-e218e4970c95?source=rss-755211d6d7d9------2)
+- [Phishing for AWS Credentials via the New &#39;aws login&#39; Flow](https://medium.com/@adan.alvarez/phishing-for-aws-credentials-via-the-new-aws-login-flow-39f6969b4eae?source=rss-755211d6d7d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🤝 Find me
